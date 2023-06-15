@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/alexdopico_" target="blank"><img src="https://img.shields.io/twitter/follow/alexdopico_?logo=twitter&style=for-the-badge" alt="alexdopico_" /></a> </p>
 
-- 🚀 I’m currently working on [**CINFO Company**](https://www.cinfo.es/home/)
-
-- 🧑‍💻 I’m currently studying at **Universidade da Coruña**
+- 🚀💻 I’m currently studying at **Universidade da Coruña**
 
 - 🌱 I’m currently learning **about Machine and Deep Learning**
 
