@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alejandro Dopico</h1>
-<h3 align="center">A passionate Artificial Intelligence and Deep Learning developer and student from A Coruña, in Spain</h3>
+<h3 align="center">A passionate Artificial Intelligence and Deep Learning engineer and student from A Coruña, in Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandrodopico2&label=Profile%20views&color=0e75b6&style=flat" alt="alejandrodopico2" /> </p>
 
